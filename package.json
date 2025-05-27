@@ -1,0 +1,8 @@
+{
+  "name": "frontend-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Building frontend...' && mkdir dist && echo '<h1>Hello, World!</h1>' > dist/index.html"
+  },
+  "dependencies": {}
+}
